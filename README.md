@@ -1,6 +1,6 @@
 #NYC-Traffic-Data
 
-Heatmap of NYC Colliisions from July-November 2015
+Code for heatmap of NYC Colliisions from July-November 2015
 
 Some code borrowed from Myles Harrison @http://www.everydayanalytics.ca
 
